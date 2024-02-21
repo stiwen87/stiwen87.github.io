@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "OfflineCalc3",
   "resources": {
-    "hash": "sha256-fddryHNAUTAoTq//Hrd1cXQ2s/kQ6twbRzGRsC/gETY=",
+    "hash": "sha256-XXDwYz8IDVVdx7HXFw5rSKugwppBG/8qqazsfd0JpNU=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.kd8jqawkaq.js": "sha256-SGOlISx+3G4kkvpC9Uq3qoPGsnjxGmW61QBev0lyI5U="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Microsoft.AspNetCore.Components.wasm": "sha256-YFsKofbPyA72SY89rPVa6Cskx4EyAzi/d7Nt8yzxGXY=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-lKMMfkOHHs3WdkYS+yikrvGRKFGuMa0do6XX5Dl0Rlw=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-mmo6S4AxiBcnKbs4b+7ObftqPCkIcLGiAv9gICT/5NY=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-d6tN87QrJstiTMcLaUtZ6TWiNHa8A74Suuzx95thRrE=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-87sn2TYqgdZ95sXmavjKEzoEfMgHnYQ9LOvnMX+aZcI=",
@@ -31,7 +31,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-y9e5FjTO/gq0d6pvl/cYf7uT232Y/Dw7ZS0YNZGBv/M=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-aCgxiIU+arbpOkgLngl1hBQLocrFL2/t1zUJV8HXOzI=",
-      "OfflineCalc3.wasm": "sha256-rEwHirCAZzo4So05sn0/4gSEA2dHNBjUQ9OFiyO4flg=",
+      "OfflineCalc3.wasm": "sha256-lzhqKfGx0reYRkKrLV2wN+uBO7o8bRP6XhxoO1BhQPE=",
       "System.Collections.Concurrent.wasm": "sha256-f+4F1Jj+4AOywwpvnSi6aoH0YTpzUW01STc9Mxkb+Vo=",
       "System.Collections.wasm": "sha256-L4jRDy8Kv3bPcPg7yA4Bw+gkOFkuZR1Gp+GcFT1q2YA=",
       "System.ComponentModel.wasm": "sha256-/6Kik6mC6ZHx8OXft116HbGv8VWDCF3oge/a6pf8jB8=",
