@@ -101,3 +101,11 @@ a, .btn-link {
 code {
     color: #c02d76;
 }
+
+.nav-text {
+    font-size: 0.9rem;
+    color: #fafafa;
+    margin: 1rem 0;
+    display: block; /* Ensures the text appears on its own line */
+    /*text-align: center;*/
+}
